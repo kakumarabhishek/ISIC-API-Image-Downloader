@@ -1,0 +1,21 @@
+{
+    "acquisition": {
+        "pixels_x": 1022,
+        "pixels_y": 767,
+        "image_type": "dermoscopic"
+    },
+    "clinical": {
+        "concomitant_biopsy": false,
+        "sex": "male",
+        "anatom_site_general": "upper extremity",
+        "benign_malignant": "benign",
+        "diagnosis_1": "Benign",
+        "diagnosis_2": "Benign melanocytic proliferations",
+        "diagnosis_3": "Nevus",
+        "diagnosis_4": "Nevus, Atypical, Dysplastic, or Clark",
+        "diagnosis_5": "Nevus, Dysplastic",
+        "melanocytic": true,
+        "age_approx": 30,
+        "diagnosis": "nevus"
+    }
+}

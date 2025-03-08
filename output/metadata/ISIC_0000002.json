@@ -1,0 +1,20 @@
+{
+    "acquisition": {
+        "pixels_x": 1022,
+        "pixels_y": 767,
+        "image_type": "dermoscopic"
+    },
+    "clinical": {
+        "concomitant_biopsy": true,
+        "sex": "female",
+        "anatom_site_general": "upper extremity",
+        "benign_malignant": "malignant",
+        "diagnosis_1": "Malignant",
+        "diagnosis_2": "Malignant melanocytic proliferations (Melanoma)",
+        "diagnosis_3": "Melanoma, NOS",
+        "diagnosis_confirm_type": "histopathology",
+        "melanocytic": true,
+        "age_approx": 60,
+        "diagnosis": "melanoma"
+    }
+}
